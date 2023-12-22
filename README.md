@@ -35,7 +35,7 @@ DevRouteFinder is an open-source project, and contributions are welcome! Whether
 4. Push to the branch: `git push origin feature/NewFeature`.
 5. Submit a pull request.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-به طور کلی، می‌توانید توضیحات بیشتری درباره DevRouteFinder ارائه دهید، مثلا:
+
 
 ### Detailed Description:
 
